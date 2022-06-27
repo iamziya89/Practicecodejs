@@ -7,4 +7,4 @@ let ans=(function (num){
     }
     return sum;
 })(26);
-console.log(ans)
+console.log(ans);
