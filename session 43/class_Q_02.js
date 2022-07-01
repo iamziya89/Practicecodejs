@@ -4,4 +4,4 @@ function range(i,n){
         return range(i+1,n)
     }
 }
-range(1,5);
+range(1,10);
